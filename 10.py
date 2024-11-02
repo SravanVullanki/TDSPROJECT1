@@ -1,7 +1,7 @@
 import csv
 import numpy as np
 
-# Lists to store the followers and public repos of users from Delhi
+# Lists to store the followers and public repos of users from Barcelona
 followers = []
 public_repos = []
 
